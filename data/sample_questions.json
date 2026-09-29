@@ -1,0 +1,52 @@
+[
+    {
+        "prompt": "Which keyword is used to define a function in Python?",
+        "options": ["func", "define", "def", "lambda"],
+        "correct": "def"
+    },
+    {
+        "prompt": "Which built-in module handles operating system interactions?",
+        "options": ["sys", "os", "math", "datetime"],
+        "correct": "os"
+    },
+    {
+        "prompt": "What is the primary purpose of a Python generator?",
+        "options": [
+            "To generate random numbers", 
+            "To yield items lazily using memory-efficient iteration", 
+            "To compile code into machine language", 
+            "To automatically manage database connections"
+        ],
+        "correct": "To yield items lazily using memory-efficient iteration"
+    },
+    {
+        "prompt": "Which block is used to handle exceptions in Python?",
+        "options": ["try-except", "catch-throw", "do-except", "error-handle"],
+        "correct": "try-except"
+    },
+    {
+        "prompt": "What does OOP stand for in software development?",
+        "options": [
+            "Ordered Operational Processing", 
+            "Object-Oriented Programming", 
+            "Optional Overriding Parameters", 
+            "Open Online Platform"
+        ],
+        "correct": "Object-Oriented Programming"
+    },
+    {
+        "prompt": "Which method is automatically called when a new instance of a class is created?",
+        "options": ["__del__", "__init__", "__str__", "__main__"],
+        "correct": "__init__"
+    },
+    {
+        "prompt": "Which module is commonly used in Python to read and write JSON files?",
+        "options": ["csv", "json", "pickle", "xml"],
+        "correct": "json"
+    },
+    {
+        "prompt": "What is the correct file extension for a Python source code file?",
+        "options": [".pt", ".py", ".pyt", ".python"],
+        "correct": ".py"
+    }
+]
